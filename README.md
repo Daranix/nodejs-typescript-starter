@@ -1,3 +1,1 @@
-# Node TypeScript Basic Template
-
-* Testing Framework: **Jasmine**
+# Node TypeScript Basic Template Starter
